@@ -47,6 +47,10 @@ body {
     background-color: #d6d6d6;
 }
 
+.button.equals {
+    background-color: #d6d6d6;
+}
+
 :active.button {
     background-color: #61625f;
 }
@@ -56,6 +60,10 @@ body {
 }
 
 :active.button.operation {
+    background-color: #858383;
+}
+
+:active.button.equals {
     background-color: #858383;
 }
 
