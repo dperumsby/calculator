@@ -80,7 +80,7 @@ body {
 
 #display {
     display: flex;
-    justify-content: right;
+    justify-content: flex-end;
     align-items: flex-end;
     grid-area: display;
     background-color: #98a474;
